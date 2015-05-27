@@ -46,6 +46,10 @@ Soon to come!
 | Component | Status |
 |-----------|--------|
 | [watchtower-common](https://github.com/icclab/watchtower-common) | [![Build Status](https://travis-ci.org/icclab/watchtower-common.svg?branch=master)](https://travis-ci.org/icclab/watchtower-common) [![Coverage Status](https://coveralls.io/repos/icclab/watchtower-common/badge.svg?branch=master)](https://coveralls.io/r/icclab/watchtower-common?branch=master) |
+| [watchtower-monitoring](https://github.com/icclab/watchtower-monitoring) | [![Build Status](https://travis-ci.org/icclab/watchtower-monitoring.svg?branch=master)](https://travis-ci.org/icclab/watchtower-monitoring) [![Coverage Status](https://coveralls.io/repos/icclab/watchtower-monitoring/badge.svg?branch=master)](https://coveralls.io/r/icclab/watchtower-monitoring?branch=master) |
+| [watchtower-automation](https://github.com/icclab/watchtower-automation) | [![Build Status](https://travis-ci.org/icclab/watchtower-automation.svg?branch=master)](https://travis-ci.org/icclab/watchtower-automation) [![Coverage Status](https://coveralls.io/repos/icclab/watchtower-automation/badge.svg?branch=master)](https://coveralls.io/r/icclab/watchtower-automation?branch=master) |
+| [watchtower-workflow](https://github.com/icclab/watchtower-workflow) | [![Build Status](https://travis-ci.org/icclab/watchtower-workflow.svg?branch=master)](https://travis-ci.org/icclab/watchtower-workflow) [![Coverage Status](https://coveralls.io/repos/icclab/watchtower-workflow/badge.svg?branch=master)](https://coveralls.io/r/icclab/watchtower-workflow?branch=master) |
+| [watchtower-workflow-camunda](https://github.com/icclab/watchtower-workflow-camunda) | [![Build Status](https://travis-ci.org/icclab/watchtower-workflow-camunda.svg?branch=master)](https://travis-ci.org/icclab/watchtower-workflow-camunda) [![Coverage Status](https://coveralls.io/repos/icclab/watchtower-workflow-camunda/badge.svg?branch=master)](https://coveralls.io/r/icclab/watchtower-workflow-camunda?branch=master) |
 
 # License
 
