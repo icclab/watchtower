@@ -70,5 +70,5 @@ limitations under the License.
 
 # Author Information
 
-For further information or assistance please contact [**Victor Ion Munteanu**](https://github.com/nemros).
+For further information or assistance please contact [**Valon Mamudi**](https://github.com/mamu-icc).
 
