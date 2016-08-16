@@ -20,8 +20,14 @@ The following are partially or fully implemented features:
 
 ### Components
 
-As of v1.0.0, it has 6 components of which four provide running services:* **watchtower-common** - contains common, reusable, code for all watchtower components. It facilitates communication between components through common objects and provides Json serialization for them
-* **watchtower-monitoring** - its primary role is to get, process, and forward events from the monitoring solutions to **watchtower-workflow*** **watchtower-automation** - handles communication with automation engines* **watchtower-workflow** - provides an interface between the workflow engine and the rest of Watchtower's components* **watchtower-workflow-camunda** - is a component of watchtower which is deployed onto Camunda and contains both the BPM workflow and the REST service to which **watchtower-workflow** connects* **ansible-watchtower** – is Ansible role script which allows easy installation of Watchtower on a single host
+As of v1.0.0, it has 6 components of which four provide running services:
+
+* **watchtower-common** - contains common, reusable, code for all watchtower components. It facilitates communication between components through common objects and provides Json serialization for them
+* **watchtower-monitoring** - its primary role is to get, process, and forward events from the monitoring solutions to **watchtower-workflow**
+* **watchtower-automation** - handles communication with automation engines
+* **watchtower-workflow** - provides an interface between the workflow engine and the rest of Watchtower's components
+* **watchtower-workflow-camunda** - is a component of watchtower which is deployed onto Camunda and contains both the BPM workflow and the REST service to which **watchtower-workflow** connects
+* **ansible-watchtower** – is Ansible role script which allows easy installation of Watchtower on a single host
 
 
 ### Roadmap
@@ -70,5 +76,5 @@ limitations under the License.
 
 # Author Information
 
-For further information or assistance please contact [**Valon Mamudi**](https://github.com/mamu-icc).
+For further information or assistance please contact [**Andy Edmonds**](https://github.com/dizz).
 
